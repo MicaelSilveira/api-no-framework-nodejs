@@ -16,7 +16,4 @@ class Product {
     };
   }
 }
-
-const test = new Product({ name: "micael", age: 10, power: 10 });
-
 module.exports = Product;
