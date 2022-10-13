@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1fd3bdd-4448-4523-b4ab-f86735e9ac53" name="Changes" comment="improved code">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/api_exemple.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2022-10-10T200821.404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2022-10-10T201118.201.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2022-10-10T201134.201.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2022-10-10T201242.404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2022-10-10T201336.200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2022-10-12T205633.200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2022-10-12T205701.200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2022-10-12T210401.201.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2022-10-12T210417.201.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2022-10-12T210419.201.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2022-10-12T210521.201.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2022-10-12T210528.201.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2022-10-12T211003.201.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2022-10-12T211019.201.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/Post.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HttpClientSelectedEnvironments">
+    <file url="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http" environment="test" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Fxmk7uYETrcOlwP73Juma3ygHI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "16.3.0",
+    "javascript.nodejs.core.library.typings.version": "16.3.0",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.scopes",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cristopher\Desktop\Node\api_exemple\webapi" />
+      <recent name="C:\Users\Cristopher\Desktop\Node\api_exemple\webapi\src\entities" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1fd3bdd-4448-4523-b4ab-f86735e9ac53" name="Changes" comment="" />
+      <created>1665442252677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665442252677</updated>
+      <workItem from="1665442255112" duration="61000" />
+      <workItem from="1665442925658" duration="2237000" />
+      <workItem from="1665537155843" duration="1218000" />
+      <workItem from="1665617608518" duration="3694000" />
+    </task>
+    <task id="LOCAL-00001" summary="improved code">
+      <created>1665620637103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665620637103</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="improved code" />
+    <option name="LAST_COMMIT_MESSAGE" value="improved code" />
+  </component>
+</project>

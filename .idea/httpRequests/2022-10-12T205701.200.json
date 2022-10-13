@@ -1,0 +1,14 @@
+{
+  "results": [
+    {
+      "name": "test1",
+      "category": "test",
+      "price": 1000
+    },
+    {
+      "name": "test2",
+      "category": "test",
+      "price": 1500
+    }
+  ]
+}
