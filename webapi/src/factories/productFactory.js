@@ -6,8 +6,7 @@ const fileName = join(__dirname, "../../database", "data.json");
 
 const generateInstance = () => {
   const repository = new productRepository({ file: fileName });
-  const service = new productService({ heroRepository: repository });
-  return service;
+  return new productService({heroRepository: repository});
 };
 
 module.exports = generateInstance;

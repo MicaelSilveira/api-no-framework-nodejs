@@ -12,22 +12,26 @@ const router = {
     res.write(JSON.stringify({ error: "Page is not found" }));
     return res.end();
   },
+
   "/products:get": async (req, res) => {
     const { id } = req.queryString;
     const products = await productService.find(id);
     res.write(JSON.stringify({ results: products }));
     return res.end();
   },
+
   "/product:post": async (req, res) => {
     for await (const data of req) {
       const item = JSON.parse(data);
       const newProduct = new product(item);
       const { error, valid } = newProduct.isValid();
+
       if (!valid) {
         res.writeHead(400, DEFAULT_HEADER);
         res.write(JSON.stringify({ error: error.join(",") }));
         return res.end();
       }
+
       const id = await productService.create(newProduct);
       res.writeHead(201, DEFAULT_HEADER);
       res.write(JSON.stringify({ ok: "Created", id }));
