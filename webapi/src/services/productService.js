@@ -11,6 +11,7 @@ class productService {
   async create(date) {
     return this.heroRepository.create(date);
   }
+
 }
 
 module.exports = productService;
